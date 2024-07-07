@@ -37,7 +37,7 @@ with tab1:
     Race, SMSA, Married, Age-Squared
 
     ### Original results
-    <<Your description here, in Markdown>>
+    Higher levels of educational attainment resulting from increased compulsory schooling laws correspond to higher earnings in adulthood: the monetary return to an additional year of schooling for those who are compelled to attend school by compulsory schooling laws is about 7.5 percent.
     """
     )
     # st.image("<<path to image from project's root, if needed>>") # uncomment this line if you would like to add an image
