@@ -14,8 +14,12 @@ tab1, tab2, tab3, tab4 = st.tabs(["Original Paper", "Proposed Extention", "Exten
 with tab1:
     st.markdown("""
     ### Design description
-    Research Question: Does compulsory schooling laws, which mandate the minimum age at which students can drop out of school, have a causal effect on the amount of schooling individuals receive and their earnings in adulthood?
-    Main Hypothesis: Compulsory school attendance laws increase educational attainment and, consequently, lead to higher earnings in the labor market
+    #### Research Question
+    Does compulsory schooling laws, which mandate the minimum age at which students can drop out of school, have a causal effect on the amount of schooling individuals receive and their earnings in adulthood?
+    
+    #### Main Hypothesis
+    Compulsory school attendance laws increase educational attainment and, consequently, lead to higher earnings in the labor market
+    
     ### Data
 
     ### Original results
