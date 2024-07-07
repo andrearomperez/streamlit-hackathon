@@ -40,12 +40,12 @@ with tab1:
     Higher levels of educational attainment resulting from increased compulsory schooling laws correspond to higher earnings in adulthood: the monetary return to an additional year of schooling for those who are compelled to attend school by compulsory schooling laws is about 7.5 percent.
     """
     )
-    st.image("C:\\Users\\User\\Downloads\\Table4_ml.png")
+    st.image(streamlit-template-CAI-UP/images/Table4.png)
 
 with tab2:
 
     st.markdown("""
-    ### Proposed extension
+    ### Proposed extension: 
 
     ### Justification
     <<Your description here, in Markdown>>
