@@ -1,29 +1,6 @@
-# Streamlit Template
+# Streamlit Hackathon UP
 
-This repository holds the template you can use to create the streamlit dashboard for your project. To use it, fork the repository and the clone the fork into your machine, and fill out the template in `src/template.py`. For more information on streamlit, you can read [the docs](https://docs.streamlit.io/get-started). You can also check the [example from class](https://simpson-dashboard-class.streamlit.app/) and its [code](https://github.com/RodrigoGrijalba/python-dashboard-class).
-## Run locally
+This repository holds the files used to elaborate the streamlit page related to the replication and evaluation of the paper: 
+Angrist, J. D., & Krueger, A. B. (1991). Does compulsory school attendance affect schooling and earnings? The Quarterly Journal of Economics, 106(4), 979-1014. The MIT Press. http://www.jstor.org/stable/2937954
 
-If you would like to make your presentation from a localy hosted page
-
-1. (Optional) Create an environment
-2. Make sure to have streamlit installed
-
-```shell
-pip install streamlit
-```
-
-3. Run streamlit from the root directory
-
-```shell
-streamlit run src/template.py
-```
-
-A browser tab should automatically open. If not, click on the `Local URL`
-
-## Deploy on Streamlit Cloud
-
-1. You will need to create a [Streamlit Cloud](share.streamlit.io) account.
-2. Once created, go to **Create app**.
-3. Select the option for deploying an app from a pre-existing repo
-4. Select your repo, the branch, and the path for the file you will be running
-5. After a few minutes, the app should deploy 
+The streamlit page can be accessed with the following link: https://app-template-cai-up-8vd1borx268.streamlit.app/
