@@ -71,7 +71,17 @@ with tab3:
     A dummy variable indicating whether the individual was born in the second half of the year was created and regressed against the logarithm of annual salary. The controls used in the analysis included age, education, marital status, and race. The coefficient obtained from applying the double machine learning model was -0.003162.
     
     ### Findings:
-    ##### 1. 
+    ##### 1. Negative coefficient:
+    We found a negative coefficient when running the analysis using the Double Machine Learning (DML) method.
+
+    ##### 2. Control variables influence:
+    This result can be explained by the regression adjusting for the effects of various control variables, such as years of education, age, marital status, and race.
+
+    ##### 3. Comparison with the original study:
+    These variables were not considered in the original study, which could explain the difference in the results.
+
+    ##### 4. Interpretation:
+    In this case, the negative coefficient suggests that, once the effects of the mentioned variables have been controlled, there is a significant inverse relationship between being born after mid-year and the logarithm of weekly earnings.
     """
     )
     st.image("images/DML.jpeg")
