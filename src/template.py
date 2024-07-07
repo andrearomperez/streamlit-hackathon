@@ -9,7 +9,7 @@ import pandas as pd
 
 st.set_page_config(page_title = "<<Your page title here>>", layout = "wide")
 
-tab1, tab2, tab3, tab4 = st.tabs(["Original Paper", "Proposed Extention", "Extenson Results", "Referencres"])
+tab1, tab2, tab3, tab4 = st.tabs(["Original Paper", "Proposed Extention", "Extension Results", "Referencres"])
 
 with tab1:
     st.markdown("""
@@ -68,11 +68,10 @@ with tab3:
 
     st.markdown("""
     ### Extension results
-
-    <<Your description here, in Markdown>>
+    A dummy variable indicating whether the individual was born in the second half of the year was created and regressed against the logarithm of annual salary. The controls used in the analysis included age, education, marital status, and race. The coefficient obtained from applying the double machine learning model was -0.003162.
     """
     )
-    # st.image("<<path to image from project's root, if needed>>") # uncomment this line if you would like to add an image
+    # st.image("images/DML.jpeg")
 
 with tab4:
 
