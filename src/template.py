@@ -73,7 +73,7 @@ with tab3:
 with tab4:
 
     st.markdown("""
-    <<Your description here, in Markdown>>
+    Angrist, J. D., & Krueger, A. B. (1991). Does compulsory school attendance affect schooling and earnings? The Quarterly Journal of Economics, 106(4), 979-1014. The MIT Press. http://www.jstor.org/stable/2937954
     """
     )
     # st.image("<<path to image from project's root, if needed>>") # uncomment this line if you would like to add an image
