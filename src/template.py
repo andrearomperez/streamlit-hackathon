@@ -38,11 +38,12 @@ with tab1:
 
     ### Original results
     Higher levels of educational attainment resulting from increased compulsory schooling laws correspond to higher earnings in adulthood: the monetary return to an additional year of schooling for those who are compelled to attend school by compulsory schooling laws is about 7.5 percent.
+    ##### OLS and TSLS estimates of the return to education for men born 1920-1929 (Table 1), 1930-1939 (Table 2) and 1940-1940 (Table 3)
     """
     )
-    st.markdown("""
-    ##### OLS and TSLS estimates of the return to education for men born 1920-1929
     st.image("images/Table4.png")
+    st.image("images/Table5.png")
+    st.image("images/Table6.png")
                 
     
 with tab2:
