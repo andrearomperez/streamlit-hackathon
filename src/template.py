@@ -49,10 +49,14 @@ with tab1:
 with tab2:
 
     st.markdown("""
-    ### Proposed extension: 
+    ### Proposed extension: Double Machine Learning (DML)
 
     ### Justification
-    <<Your description here, in Markdown>>
+    ##### 1.Improved robustness: 
+    DML effectively manages high-dimensional data, allowing more control variables without overfitting, thus producing more reliable estimates.
+    
+    ##### 2. Improved efficiency: 
+    DML could lead to more efficient estimates (smaller standard errors) compared to traditional methods, especially when there are many potential control variables.
     """
     )
     # st.image("<<path to image from project's root, if needed>>") # uncomment this line if you would like to add an image
