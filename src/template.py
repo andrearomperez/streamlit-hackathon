@@ -69,6 +69,9 @@ with tab3:
     st.markdown("""
     ### Extension results
     A dummy variable indicating whether the individual was born in the second half of the year was created and regressed against the logarithm of annual salary. The controls used in the analysis included age, education, marital status, and race. The coefficient obtained from applying the double machine learning model was -0.003162.
+    
+    ### Findings:
+    ##### 1. 
     """
     )
     st.image("images/DML.jpeg")
